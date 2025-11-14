@@ -33,8 +33,8 @@ The rater component allow users check a rating level, after submit, users will s
 
 ### Links
 
-- Solution URL: [https://github.com/wayne-e/interactive-rating-component](https://github.com/wayne-e/interactive-rating-component)
-- Live Site URL: [https://wayne-e.github.io/interactive-rating-component/](https://wayne-e.github.io/interactive-rating-component/)
+- Solution URL: [https://github.com/luis-valencia-dev/interactive-rating-component](https://github.com/luis-valencia-dev/interactive-rating-component)
+- Live Site URL: [https://luis-valencia-dev.github.io/interactive-rating-component/](https://luis-valencia-dev.github.io/interactive-rating-component/)
 
 ## My process
 
@@ -60,4 +60,4 @@ const checked = document.querySelector('input[attribute="value"]:checked')
 ## Author
 
 
-- Frontend Mentor - [@wayne-e](https://www.frontendmentor.io/profile/@wayne-e)
+- Frontend Mentor - [@wayne-e](https://www.frontendmentor.io/profile/wayne-e)
